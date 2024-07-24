@@ -1,4 +1,8 @@
-# 🚀 API - Gest users
+# 🚀 API - User Management
+
+#NodeJS
+#Express
+#MongoDb
 
 ## Install the dependencies
 ```bash
